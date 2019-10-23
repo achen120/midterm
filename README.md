@@ -16,6 +16,14 @@ If the poor education situation in Baltimore is a result of high Poverty plus th
 # Why is this a Challenge/Problem?
 Poverty can lead to poor academic performance, which can eventually lead to low education level. Low education level is one of the factors for unemployment. And unemployment will let people in poverty. This is a vicious cycle. We need to stop it!
 
+![alt text](https://github.com/achen120/midterm/blob/master/16.pic.jpg)
+
+![alt text](https://github.com/achen120/midterm/blob/master/8.pic.jpg)
+
+![alt text](https://github.com/achen120/midterm/blob/master/9.pic.jpg)
+
+From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
+
 What is your business question and why is this important? This is obviously important to you because you’re working on the project, but why should the reader care about this problem as well? What other other industries (i.e. automotive, public sector, emerging technology), groups (i.e. executives, mechanics, accountants), or demographics (sex, gender, race, location) is this problem relevant for? What’s happening now because of this problem and what are potential bigger problems that can arise from nothing being done about this problem? You can use statistics and numbers to enforce your statements, but make sure to make these accessible to a general audience. Link to your sources, articles, datasets, etc. here for people to read more about specific issues that might be useful. This section should be no longer than a paragraph.
 
 # Your Solution
@@ -48,12 +56,3 @@ This write-up is similar to a business plan executive summary if your “service
  - [Crafting a Powerful Executive Summary, HBS](https://hbswk.hbs.edu/archive/crafting-a-powerful-executive-summary)
  - [Executive Summary Template, Forbes](https://www.forbes.com/sites/alejandrocremades/2018/07/31/executive-summary-template-what-to-include/#2cd9f1f85ddf) 
 
-# Data Analysis
-
-![alt text](https://github.com/achen120/midterm/blob/master/16.pic.jpg)
-
-![alt text](https://github.com/achen120/midterm/blob/master/8.pic.jpg)
-
-![alt text](https://github.com/achen120/midterm/blob/master/9.pic.jpg)
-
-From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
