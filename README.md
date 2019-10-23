@@ -1,4 +1,4 @@
-# midterm-project-template
+# Midterm Project -- Education and Funding
 This repository is a template for the [Business Analytics Midterm Project](https://docs.google.com/document/d/1X4XwqZqIRkZgGsXuNKcdZtbkZ9x16xPFZLm7pMSUqCU/edit?usp=sharing)
 # Explanatory Project Title
 2-3 sentences that explain your “business question” and some high-level findings and suggestions. This is like the abstract of your executive summary. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implications of your findings. This can include some statistics, but shouldn’t dive deep into specifics about your analysis. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. You can use bullet points in this section to emphasize some key points or findings that are further explained in the: 
