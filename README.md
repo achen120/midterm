@@ -55,3 +55,5 @@ This write-up is similar to a business plan executive summary if your “service
 ![alt text](https://github.com/achen120/midterm/blob/master/8.pic.jpg)
 
 ![alt text](https://github.com/achen120/midterm/blob/master/9.pic.jpg)
+
+From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
