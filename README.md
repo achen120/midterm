@@ -1,6 +1,11 @@
-# Midterm Project -- Education and Funding
-This repository is a template for the [Business Analytics Midterm Project](https://docs.google.com/document/d/1X4XwqZqIRkZgGsXuNKcdZtbkZ9x16xPFZLm7pMSUqCU/edit?usp=sharing)
+# Midterm Project -- Education and Poverty/Crime 
+This repository is for the [Business Analytics Midterm Project](https://docs.google.com/document/d/1X4XwqZqIRkZgGsXuNKcdZtbkZ9x16xPFZLm7pMSUqCU/edit?usp=sharing)
 # Explanatory Project Title
+According to a report from The Baltimore Sun, [Baltimore City is failing its children](https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-student-test-scores-letter-20180410-story.html), the Baltimore school students scored near the bottom on reading and math compared to students in other large urban areas and cities under a 2017 national assessment [Baltimore students trail in key U.S. assessment](https://www.baltimoresun.com/education/bs-md-nations-report-card-20180409-story.html). In summary, only 13 percent of Batimore students reach the proficent level in eighth grade reading test while only 11 percent Baltimore students reach the proficent level in eighth grade Math test. 
+
+Our analysis of the data [Education and Youth](https://data.baltimorecity.gov/Neighborhoods/Education-and-Youth-2015-/t7tk-reum) also support the phenomenom indicating the poor education situation in Baltimore.
+
+
 2-3 sentences that explain your “business question” and some high-level findings and suggestions. This is like the abstract of your executive summary. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implications of your findings. This can include some statistics, but shouldn’t dive deep into specifics about your analysis. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. You can use bullet points in this section to emphasize some key points or findings that are further explained in the: 
  - Challenge/problem section 
  - Solution section 
