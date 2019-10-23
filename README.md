@@ -10,15 +10,8 @@ Browsing through the web materials, a report [Baltimore's economy in black and w
  - Financial Crisis for lack of Personal Finance management skills
  - Poor living standard for limited mind and thought
  
-If the poor education situation in Baltimore is a result of high Poverty plus the poor education can actually lead to higher poverty rate, the issue falls into a vicious cycle and the situation would becomes worse in the future; it would hinder the development of Baltimore. Therefore, in this project, we are trying to find where exactly the poverty affect Baltimore students from receiving good Education and what should government do within their capability. 
+If the poor education situation in Baltimore is a result of high Poverty plus the poor education can actually lead to higher poverty rate, the issue falls into a vicious cycle and the situation would becomes worse in the future; it would hinder the development of Baltimore. Therefore, in this project, we are trying to find where exactly the poverty affect Baltimore students from receiving good Education and what should government do within their capability. In 
 
-
-2-3 sentences that explain your “business question” and some high-level findings and suggestions. This is like the abstract of your executive summary. Tell the reader a little bit about your business question, why this is important, a high-level finding, and the future implications of your findings. This can include some statistics, but shouldn’t dive deep into specifics about your analysis. Make this short and captivating so that the user wants to continue reading about this topic and what you’ve done. You can use bullet points in this section to emphasize some key points or findings that are further explained in the: 
- - Challenge/problem section 
- - Solution section 
- - Suggestion section
-
-But make sure to surround the bullets with additional context for what the reader is about to encounter in your summary. 
 
 # Why is this a Challenge/Problem?
 What is your business question and why is this important? This is obviously important to you because you’re working on the project, but why should the reader care about this problem as well? What other other industries (i.e. automotive, public sector, emerging technology), groups (i.e. executives, mechanics, accountants), or demographics (sex, gender, race, location) is this problem relevant for? What’s happening now because of this problem and what are potential bigger problems that can arise from nothing being done about this problem? You can use statistics and numbers to enforce your statements, but make sure to make these accessible to a general audience. Link to your sources, articles, datasets, etc. here for people to read more about specific issues that might be useful. This section should be no longer than a paragraph.
