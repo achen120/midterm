@@ -49,7 +49,9 @@ This write-up is similar to a business plan executive summary if your “service
  - [Executive Summary Template, Forbes](https://www.forbes.com/sites/alejandrocremades/2018/07/31/executive-summary-template-what-to-include/#2cd9f1f85ddf) 
 
 # Data Analysis
-Here's where we put some numbers and data visualizations
-![alt text](https://github.com/jhu-business-analytics/midterm-project-template/blob/master/bpd_overtime_count.png)
 
 ![alt text](https://github.com/achen120/midterm/blob/master/16.pic.jpg)
+
+![alt text](https://github.com/achen120/midterm/blob/master/8.pic.jpg)
+
+![alt text]
