@@ -52,4 +52,4 @@ This write-up is similar to a business plan executive summary if your “service
 Here's where we put some numbers and data visualizations
 ![alt text](https://github.com/jhu-business-analytics/midterm-project-template/blob/master/bpd_overtime_count.png)
 
-![alt text]()
+![alt text](https://github.com/achen120/midterm/blob/master/16.pic.jpg)
