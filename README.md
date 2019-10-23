@@ -9,6 +9,7 @@ Browsing through the web materials, a report [Baltimore's economy in black and w
  - Poor health condition for lack of Physiology Knowledge
  - Financial Crisis for lack of Personal Finance management skills
  - Poor living standard for limited mind and thought
+ 
 If the poor education situation in Baltimore is a result of high Poverty plus the poor education can actually lead to higher poverty rate, the issue falls into a vicious cycle and the situation would becomes worse in the future; it would hinder the development of Baltimore. Therefore, in this project, we are trying to find where exactly the poverty affect Baltimore students from receiving good Education and what should government do within their capability. 
 
 
