@@ -54,4 +54,4 @@ This write-up is similar to a business plan executive summary if your “service
 
 ![alt text](https://github.com/achen120/midterm/blob/master/8.pic.jpg)
 
-![alt text]
+![alt text](https://github.com/achen120/midterm/blob/master/9.pic.jpg)
