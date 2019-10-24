@@ -43,7 +43,7 @@ Nutrition plays a crucial role as well. Children who grow up in poor families ar
 According to ['America’s Poverty-Education Link'](https://www.huffpost.com/entry/americas-poverty-education_b_1826000) by Howard Steven Friedman,The link between poverty and education can be seen at all educational levels.  From the earliest stage, pre-primary education, poorer Americans start disadvantaged. Children of parents earning less than $15,000 a year have pre-primary enrollment rates about 20 percent lower than children of parents earning more than $50,000 a year.  This pre-school disadvantage for poor people has far-reaching impacts, since students who participated in preschool education were 31 percent less likely to repeat a grade and 32 percent less likely to drop out of high school.
 
 In addition, Chart below shows each variables’ relationship with poverty rate. P-value for safety is 0.00001773, which is smaller than 0.05. Thus, safety has relation with poverty rate. Since coefficient is negative, this means as students studying in the school with higher poverty rate  have less sense of secure on the route to school.
-![alt text]
+![alt text](https://github.com/achen120/midterm/blob/master/16.pic_hd.jpg)
 
 Chart below shows safety relationship with Academic performance. P-value for safety is 4.34E-37, which is smaller than 0.05. Thus, safety has relation with student’s Academic performance. Since coefficient is positive, this means as students have stronger sense of secure on the route to school, their academic performance rises.
 ![alt text](https://github.com/achen120/midterm/blob/master/Performance%20vs%20Safety.JPG)
