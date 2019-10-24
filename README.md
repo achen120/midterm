@@ -28,7 +28,7 @@ What is your business question and why is this important? This is obviously impo
 
 # Your Solution
 Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
-![alt text] https://github.com/achen120/midterm/blob/master/13.pic_hd.jpg
+![alt text](https://github.com/achen120/midterm/blob/master/13.pic_hd.jpg)
 
 
 
