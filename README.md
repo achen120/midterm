@@ -27,8 +27,8 @@ From the data above, we find that Low education level is one of the factors for 
 What is your business question and why is this important? This is obviously important to you because you’re working on the project, but why should the reader care about this problem as well? What other other industries (i.e. automotive, public sector, emerging technology), groups (i.e. executives, mechanics, accountants), or demographics (sex, gender, race, location) is this problem relevant for? What’s happening now because of this problem and what are potential bigger problems that can arise from nothing being done about this problem? You can use statistics and numbers to enforce your statements, but make sure to make these accessible to a general audience. Link to your sources, articles, datasets, etc. here for people to read more about specific issues that might be useful. This section should be no longer than a paragraph.
 
 # Your Solution
-Chart shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
-![alt text]
+Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
+![alt text] https://github.com/achen120/midterm/blob/master/13.pic_hd.jpg
 
 
 
