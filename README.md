@@ -50,6 +50,8 @@ Chart below shows safety relationship with Academic performance. P-value for saf
 
 
 # Future Suggestions
-Based on students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are in severe poverty, paying for extra help is difficult for them. Thus, government should assign more funding on this. And school can recruit more staffs to provide teaching.
+Based on students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are in severe poverty, paying for extra help is difficult for them. Thus, government should assign more funding on this. And school can recruit more staffs to provide teaching. What's more, a Study on JHU Hub  finds that a dangerous school commutes lead to student’s absenteeism. "Having to travel through dangerous streets is leading kids to miss school," said a school of education Professor. Model of the most efficient routes to school for Baltimore students indicates that  those who commute through areas with double the average amount of crime are 6 percent more likely to miss school.All imply the best solution: school provides a secure pick up service to guarantee the safety of students and give them a sense of security!!
+
+
 
 
