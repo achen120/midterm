@@ -30,7 +30,7 @@ From the data above, we find that Low education level is one of the factors for 
 
 # Your Solution
 Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
-![alt text](https://github.com/achen120/midterm/blob/master/13.pic_hd.jpg)
+![alt text](https://github.com/achen120/midterm/blob/master/15.pic_hd.jpg)
 
 What's more, based on [Childfund International Organization](https://www.childfund.org/Content/NewsDetail/2147489206/), children born or raised in poverty face a number of disadvantages, most evidently in education. Poverty reduces a child’s readiness for school because it leads to poor physical health and motor skills, diminishes a child’s ability to concentrate and remember information, and reduces attentiveness, curiosity and motivation.   
 
