@@ -46,7 +46,7 @@ In addition, Chart below shows each variables’ relationship with poverty rate.
 ![alt text]
 
 Chart below shows safety relationship with Academic performance. P-value for safety is 4.34E-37, which is smaller than 0.05. Thus, safety has relation with student’s Academic performance. Since coefficient is positive, this means as students have stronger sense of secure on the route to school, their academic performance rises.
-![alt text]
+![alt text](https://github.com/achen120/midterm/blob/master/Performance%20vs%20Safety.JPG)
 
 
 # Future Suggestions
