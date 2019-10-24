@@ -13,7 +13,6 @@ Browsing through the web materials, a report [Baltimore's economy in black and w
  - Financial Crisis for lack of Personal Finance management skills
  - Poor living standard for limited mind and thought
  
-If the poor education situation in Baltimore is a result of high Poverty plus the poor education can actually lead to higher poverty rate, the issue falls into a vicious cycle and the situation would becomes worse in the future; it would hinder the development of Baltimore. Therefore, in this project, we are trying to find where exactly the poverty affect Baltimore students from receiving good Education and what should government do within their capability. In 
 
 
 # Why is this a Challenge/Problem?
@@ -42,6 +41,13 @@ Overall, poor people are less likely to exercise, get proper diagnoses, receive 
 Nutrition plays a crucial role as well. Children who grow up in poor families are exposed to food with lower nutritional value. This can adversely affect them even in the womb (Antonow-Schlorke et al., 2011). Moreover, poor nutrition at breakfast affects gray matter mass in children's brains (Taki et al., 2010). Skipping breakfast is highly prevalent among urban minority youth, and it negatively affects students' academic achievement by adversely affecting cognition and raising absenteeism (Basch, 2011).
 
 According to ['America’s Poverty-Education Link'](https://www.huffpost.com/entry/americas-poverty-education_b_1826000) by Howard Steven Friedman,The link between poverty and education can be seen at all educational levels.  From the earliest stage, pre-primary education, poorer Americans start disadvantaged. Children of parents earning less than $15,000 a year have pre-primary enrollment rates about 20 percent lower than children of parents earning more than $50,000 a year.  This pre-school disadvantage for poor people has far-reaching impacts, since students who participated in preschool education were 31 percent less likely to repeat a grade and 32 percent less likely to drop out of high school.
+
+In addition, Chart below shows each variables’ relationship with poverty rate. P-value for safety is 0.00001773, which is smaller than 0.05. Thus, safety has relation with poverty rate. Since coefficient is negative, this means as students studying in the school with higher poverty rate  have less sense of secure on the route to school.
+![alt text]
+
+Chart below shows safety relationship with Academic performance. P-value for safety is 4.34E-37, which is smaller than 0.05. Thus, safety has relation with student’s Academic performance. Since coefficient is positive, this means as students have stronger sense of secure on the route to school, their academic performance rises.
+![alt text]
+
 
 # Future Suggestions
 Based on students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are in severe poverty, paying for extra help is difficult for them. Thus, government should assign more funding on this. And school can recruit more staffs to provide teaching.
