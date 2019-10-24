@@ -29,6 +29,8 @@ From the data above, we find that Low education level is one of the factors for 
 
 
 # Your Solution
+For the data analysis part, we want to see how poverty related with academic Performance. By linking the High school poverty rate chart with academic performance chart published by Baltimore city schools using VLOOKUP with School name, we successfully combine all factors and poverty rate on one chart. Then, we find the correlation and coefficient between factors and poverty by regression data analysis. 
+
 Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
 ![alt text](https://github.com/achen120/midterm/blob/master/15.pic_hd.jpg)
 
@@ -50,7 +52,21 @@ Chart below shows safety relationship with Academic performance. P-value for saf
 
 
 # Future Suggestions
-Based on students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are in severe poverty, paying for extra help is difficult for them. Thus, government should assign more funding on this. And school can recruit more staffs to provide teaching. What's more, a Study on JHU Hub  finds that a dangerous school commutes lead to student’s absenteeism. "Having to travel through dangerous streets is leading kids to miss school," said a school of education Professor. Model of the most efficient routes to school for Baltimore students indicates that  those who commute through areas with double the average amount of crime are 6 percent more likely to miss school.All imply the best solution: school provides a secure pick up service to guarantee the safety of students and give them a sense of security!!
+Based on students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are in severe poverty, paying for extra help is difficult for them. Thus, government should assign more funding on this. And school can recruit more staffs to provide teaching.
+
+In order to come up with some more further suggestion on the issue, we tried to narrow down the idea of poverty into small pieces. Therefore, in second round analysis, we do linear regression multiple times to determined which factor caused by Poverty condition has the largest influence on the academic performance. 
+
+From the chart, we can clearly see that the p-value between Poverty and sense of safety is as low as 1.7E-5 which indicate an extremely high statistical significance. Meanwhile, the negative coefficient as -51.46 implies that the higher poverty rate typically in company with less sense of Safety.
+
+Based on the observation, we make our assumption that such sense of security has negative impact on student’s academic performance. Therefore, we do the linear regression again with sense of safety and academic performance. Here, we can see the small p-value and positive coefficient is highly consistent with our assumption.
+
+Consequently, we tried to find out why such sense of safety affect academic performance so much.
+The attentiveness and efficiency in study is one of the factors. A recent study at Sainte-Anne’s University finds that the student who felt unsafe has more symptoms of depression, making them unhappy and difficult to enjoy themselves. Such low performance in engagement and attentiveness in the classroom have long-term negative effect on students, leading to lower academic performance.
+Another factor is absence from class. A report out of University of Southern California found that the unsafe feeling “reduces school attendance”. For student, staying home from class is often the easiest way to avoid danger. Such absence from the class hinder student’s performance in understanding.
+
+We then related these factors with Baltimore current situation. A model of the most efficient routes to school for Baltimore students indicates that those who commute through areas with double the average amount of crime are 6 percent more likely to miss school.
+
+Considering all circumstances above, we come up with the suggestion for school to provide secure bus pick-up service to guarantee the safety of students and give them a sense of security so as to raise the student’s academic performance.
 
 
 
