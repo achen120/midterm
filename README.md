@@ -44,5 +44,6 @@ Nutrition plays a crucial role as well. Children who grow up in poor families ar
 According to ['America’s Poverty-Education Link'](https://www.huffpost.com/entry/americas-poverty-education_b_1826000) by Howard Steven Friedman,The link between poverty and education can be seen at all educational levels.  From the earliest stage, pre-primary education, poorer Americans start disadvantaged. Children of parents earning less than $15,000 a year have pre-primary enrollment rates about 20 percent lower than children of parents earning more than $50,000 a year.  This pre-school disadvantage for poor people has far-reaching impacts, since students who participated in preschool education were 31 percent less likely to repeat a grade and 32 percent less likely to drop out of high school.
 
 # Future Suggestions
-More fundings or rearranging fundings to spend on facilities of staffs to let student feel more belonging to school.
+Based on students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are in severe poverty, paying for extra help is difficult for them. Thus, government should assign more funding on this. And school can recruit more staffs to provide teaching.
+
 
