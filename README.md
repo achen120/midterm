@@ -18,9 +18,9 @@ Poverty can lead to poor academic performance, which can eventually lead to low 
 
 <img src="https://github.com/achen120/midterm/blob/master/16.pic.jpg" width="600" height="300">
 
-<img srcc="https://github.com/achen120/midterm/blob/master/8.pic.jpg" width="300" height="150">
+<img src="https://github.com/achen120/midterm/blob/master/8.pic.jpg" width="300" height="150">
 
-<img srccc="https://github.com/achen120/midterm/blob/master/9.pic.jpg" width="400" height="200">
+<img src="https://github.com/achen120/midterm/blob/master/9.pic.jpg" width="400" height="200">
 
 
 From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
