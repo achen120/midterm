@@ -3,7 +3,7 @@ This repository is for the [Business Analytics Midterm Project](https://docs.goo
 # Explanatory Project Title
 According to a report [Baltimore City is failing its children](https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-student-test-scores-letter-20180410-story.html) from The Baltimore Sun, the Baltimore school students scored near the bottom on reading and math compared to students in other large urban areas and cities under a 2017 national assessment refered to [Baltimore students trail in key U.S. assessment](https://www.baltimoresun.com/education/bs-md-nations-report-card-20180409-story.html). In summary, only 13 percent of Batimore students reach the proficent level in eighth grade reading test while only 11 percent Baltimore students reach the proficent level in eighth grade Math test. 
 
-Also, as comparison to other cities, we can find that students in Baltimore city have highest percent of low performance level ,lowest percent of high performance level, and the least change from previous year.
+Additionally, as comparison to other cities, we can find that students in Baltimore city have highest percent of low performance level ,lowest percent of high performance level, and the least change from previous year.
 ![alt text](https://github.com/achen120/midterm/blob/master/Baltimore_student_bad_performance1.jpg)
 ![alt text](https://github.com/achen120/midterm/blob/master/Baltimore_student_bad_performance2.jpg)
 
