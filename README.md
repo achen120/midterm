@@ -3,6 +3,10 @@ This repository is for the [Business Analytics Midterm Project](https://docs.goo
 # Explanatory Project Title
 According to a report [Baltimore City is failing its children](https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-student-test-scores-letter-20180410-story.html) from The Baltimore Sun, the Baltimore school students scored near the bottom on reading and math compared to students in other large urban areas and cities under a 2017 national assessment refered to [Baltimore students trail in key U.S. assessment](https://www.baltimoresun.com/education/bs-md-nations-report-card-20180409-story.html). In summary, only 13 percent of Batimore students reach the proficent level in eighth grade reading test while only 11 percent Baltimore students reach the proficent level in eighth grade Math test. 
 
+Also, as comparison to other cities, we can find that students in Baltimore city have highest percent of low performance level ,lowest percent of high performance level, and the least change from previous year.
+![alt text]
+![alt text]
+
 Our analysis in Education_and_Youth__2015__analysis.xlsx of the data [Education and Youth](https://data.baltimorecity.gov/Neighborhoods/Education-and-Youth-2015-/t7tk-reum) also support the phenomenom indicating the poor education situation in Baltimore.
 
 Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. The poverty rate of Baltimore which is approximately 24% is amazingly high compared to 9.9% of Maryland and 11.8% of U.S in 2019. This surprisingly high Baltimore poverty rate and poor education situation lead us to think about whether there's some correlation between these two phenomenon. Such problems is very critical since we all know that Education is the best way to eradicate Poverty because those in poverty can only change their condition by learning new things. According to J. Nyerere, “Education is not a way to escape poverty,it is a way to fight it”. Meanwhile, poor education can lead to more serious result:
