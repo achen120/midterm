@@ -1,5 +1,5 @@
-# Main Cause(s) of Poor Academic Performance in Baltimore City Public Schools
-By: Daisy Xu, Yixing Pan, Anqi Chen
+# Main Cause(s) of Poor Academic Performance in Baltimore City Public Schools 
+                                                        By: Daisy Xu, Yixing Pan, Anqi Chen
 
 “Education is the premise of progress, in every society, in every family." --- Kofi Annan
 
