@@ -1,5 +1,9 @@
-# What Is the Main Cause of Poor Academic Performance in Baltimore City Public Schools?
-# Explanatory Project Title
+# Main Cause(s) of Poor Academic Performance in Baltimore City Public Schools
+By: Daisy Xu, Yixing Pan, Anqi Chen
+
+“Education is the premise of progress, in every society, in every family." --- Kofi Annan
+
+# The Problem in Baltimore
 According to a report [Baltimore City is failing its children](https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-student-test-scores-letter-20180410-story.html) from The Baltimore Sun, the Baltimore school students scored near the bottom on reading and math compared to students in other large urban areas and cities under a 2017 national assessment refered to [Baltimore students trail in key U.S. assessment](https://www.baltimoresun.com/education/bs-md-nations-report-card-20180409-story.html). In summary, only 13 percent of Batimore students reach the proficent level in eighth grade reading test while only 11 percent Baltimore students reach the proficent level in eighth grade Math test. 
 
 Additionally, as comparison to other cities, we can find that students in Baltimore city have highest percent of low performance level ,lowest percent of high performance level, and the least change from previous year.
@@ -28,7 +32,7 @@ If the poor education situation in Baltimore is a result of high Poverty plus th
 From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
 
 
-# Your Solution
+# Our Solution
 For the data analysis part, we want to see how poverty related with academic Performance. By linking the High school poverty rate chart with academic performance chart published by Baltimore city schools using VLOOKUP with School name, we successfully combine all factors and poverty rate on one chart. Then, we find the correlation and coefficient between factors and poverty by regression data analysis. 
 
 ![alt text](https://github.com/achen120/midterm/blob/master/Chart%20of%20School%20Poverty%20rate.JPG)
@@ -73,3 +77,4 @@ Considering all circumstances above, we come up with the suggestion for school t
 
 
 
+# Appendix
