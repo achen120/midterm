@@ -31,9 +31,9 @@ From the data above, we find that Low education level is one of the factors for 
 # Your Solution
 For the data analysis part, we want to see how poverty related with academic Performance. By linking the High school poverty rate chart with academic performance chart published by Baltimore city schools using VLOOKUP with School name, we successfully combine all factors and poverty rate on one chart. Then, we find the correlation and coefficient between factors and poverty by regression data analysis. 
 
-![alt text](https://github.com/achen120/midterm/blob/master/Data from school report.JPG)
-![alt text](https://github.com/achen120/midterm/blob/master/Chart of School Poverty rate.JPG)
-![alt text](https://github.com/achen120/midterm/blob/master/combined data chart.JPG)
+![alt text](https://github.com/achen120/midterm/blob/master/Chart%20of%20School%20Poverty%20rate.JPG)
+![alt text](https://github.com/achen120/midterm/blob/master/Data%20from%20school%20report.JPG)
+![alt text](https://github.com/achen120/midterm/blob/master/combined%20data%20chart.JPG)
 
 Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
 ![alt text](https://github.com/achen120/midterm/blob/master/15.pic_hd.jpg)
