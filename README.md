@@ -15,7 +15,15 @@ Additionally, by comparing the data with other cities, we can find that students
 ### Why is this a Challenge?
 Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. The poverty rate of Baltimore, which is approximately 24%, is amazingly high compared to 9.9% of Maryland and 11.8% of the U.S in 2019. We thus wonder if students' poor academic performance is correlated with the high poverty rate in Baltimore. Our Business Question is then: How Poverty Influences Student’s Performance in Baltimore City Public Schools?
 
-With poor academic performance, students are more likely to drop out of school and are less possible to acquire new skills by going to higher institutions to further their studies. As shown in Chart 1, the unemployment rate gradually decreases as the degree of individual obtained increases. This explains the result shown in Chart 2, with a higher degree, the poverty rate is lower. For individuals who have a degree less then high school, the poverty rate is 33.68%. We can roughly conclude that education is the best way to eradicate poverty. According to J. Nyerere, “Education is not a way to escape poverty,it is a way to fight it."
+With poor academic performance, students are more likely to drop out of school and are less possible to acquire new skills by going to higher institutions to further their studies. As shown in the chart below, the unemployment rate gradually decreases as the degree of individual obtained increases. 
+
+![alt text](https://github.com/achen120/midterm/blob/master/Unemployment%20rate.jpg)
+
+This explains the result shown in the chart below, with a higher degree, the poverty rate is lower. 
+
+![alt text](https://github.com/achen120/midterm/blob/master/poverty%20vs%20education%20level.jpg)
+
+For individuals who have a degree less then high school, the poverty rate is 33.68%. We can roughly conclude that education is the best way to eradicate poverty. According to J. Nyerere, “Education is not a way to escape poverty,it is a way to fight it."
 
 However, poverty causes severe consequences, including:
  - Poor health condition due to lack of medication
@@ -24,14 +32,6 @@ However, poverty causes severe consequences, including:
  
 If the poor education situation in Baltimore is a result of high poverty, it then leads back to poor education, which falls into a vicious cycle. The situation thus may even become worse in the future as this may hinder the development of Baltimore. 
 We need to stop this vicious cycle!
-
-![alt text](https://github.com/achen120/midterm/blob/master/Unemployment%20rate.jpg)
-
-![alt text](https://github.com/achen120/midterm/blob/master/poverty%20vs%20education%20level.jpg)
-
-
-From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
-
 
 ### Our Solution
 For the data analysis part, we want to see how poverty related with academic Performance. By linking the High school poverty rate chart with academic performance chart published by Baltimore city schools using VLOOKUP with School name, we successfully combine all factors and poverty rate on one chart. Then, we find the correlation and coefficient between factors and poverty by regression data analysis. 
