@@ -36,12 +36,6 @@ From the data above, we find that Low education level is one of the factors for 
 ### Our Solution
 For the data analysis part, we want to see how poverty related with academic Performance. By linking the High school poverty rate chart with academic performance chart published by Baltimore city schools using VLOOKUP with School name, we successfully combine all factors and poverty rate on one chart. Then, we find the correlation and coefficient between factors and poverty by regression data analysis. 
 
-![alt text](https://github.com/achen120/midterm/blob/master/Chart%20of%20School%20Poverty%20rate.JPG)
-
-![alt text](https://github.com/achen120/midterm/blob/master/Data%20from%20school%20report.JPG)
-
-![alt text](https://github.com/achen120/midterm/blob/master/combined%20data%20chart.JPG)
-
 Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
 
 ![alt text](https://github.com/achen120/midterm/blob/master/15.pic_hd.jpg)
@@ -61,6 +55,10 @@ Based on the observation, we make our assumption that such sense of security has
 
 ![alt text](https://github.com/achen120/midterm/blob/master/Performance%20vs%20Safety.JPG)
 
+Based on the Correlationship between these two variables, we do a further analysis of linear relationship between Academic Performance and student's sense of security. The graph below shows a clear linear relationship between them.
+
+![alt text](https://github.com/achen120/midterm/blob/master/Trendline%20Performance%20vs%20Sense%20of%20security.JPG)
+
 Consequently, we tried to find out why such sense of safety affect academic performance so much.
 The attentiveness and efficiency in study is one of the factors. A recent study at Sainte-Anne’s University finds that the student who felt unsafe has more symptoms of depression, making them unhappy and difficult to enjoy themselves. Such low performance in engagement and attentiveness in the classroom have long-term negative effect on students, leading to lower academic performance.
 Another factor is absence from class. A report out of University of Southern California found that the unsafe feeling “reduces school attendance”. For student, staying home from class is often the easiest way to avoid danger. Such absence from the class hinder student’s performance in understanding.
@@ -73,3 +71,8 @@ Considering all circumstances above, we come up with the suggestion for school t
 
 
 # Appendix
+![alt text](https://github.com/achen120/midterm/blob/master/Chart%20of%20School%20Poverty%20rate.JPG)
+
+![alt text](https://github.com/achen120/midterm/blob/master/Data%20from%20school%20report.JPG)
+
+![alt text](https://github.com/achen120/midterm/blob/master/combined%20data%20chart.JPG)
