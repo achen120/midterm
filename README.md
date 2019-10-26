@@ -13,8 +13,7 @@ Additionally, by comparing the data with other cities, we can find that students
 
 
 ### Why is this a Challenge?
-Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. It emphazies that the poverty rate of Baltimore, which is approximately 24%, is amazingly high compared to 9.9% of Maryland and 11.8% of the U.S in 2019. We thus wonder if students' poor academic performance is correlated with the high poverty rate in Baltimore. 
-##### Our Business Question is then: How Poverty Influences Student’s Performance in Baltimore City Public Schools?
+Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. It emphazies that the poverty rate of Baltimore, which is approximately 24%, is amazingly high compared to 9.9% of Maryland and 11.8% of the U.S in 2019. We thus wonder if students' poor academic performance is correlated with the high poverty rate in Baltimore. [Our Business Question is then: How Poverty Influences Student’s Performance in Baltimore City Public Schools?]
 
 With poor academic performance, students are more likely to drop out of school and are less possible to acquire new skills by going to higher institutions to further their studies. As shown in the chart below, the unemployment rate gradually decreases as the degree of individual obtained increases. 
 
