@@ -13,7 +13,7 @@ Additionally, by comparing the data with other cities, we can find that students
 
 
 ### Why is this a Challenge?
-Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. The poverty rate of Baltimore, which is approximately 24%, is amazingly high compared to 9.9% of Maryland and 11.8% of the U.S in 2019. We thus wonder if students' poor academic performance is correlated with the high poverty rate in Baltimore. Our Business Question is then: How Poverty Influences Student’s Performance in Baltimore City Public Schools?
+Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. It emphazies that the poverty rate of Baltimore, which is approximately 24%, is amazingly high compared to 9.9% of Maryland and 11.8% of the U.S in 2019. We thus wonder if students' poor academic performance is correlated with the high poverty rate in Baltimore. Our Business Question is then: How Poverty Influences Student’s Performance in Baltimore City Public Schools?
 
 With poor academic performance, students are more likely to drop out of school and are less possible to acquire new skills by going to higher institutions to further their studies. As shown in the chart below, the unemployment rate gradually decreases as the degree of individual obtained increases. 
 
@@ -33,8 +33,17 @@ However, poverty causes severe consequences, including:
 If the poor education situation in Baltimore is a result of high poverty, it then leads back to poor education, which falls into a vicious cycle. The situation thus may even become worse in the future as this may hinder the development of Baltimore. 
 We need to stop this vicious cycle!
 
+We came up with several data questions that would guide our analysis:
+1. What data on Poverty & School Performance can we find and use?
+- Poverty Rate by Schools, School Survey Data
+2. What tools shall we use to derive the relationships between different factors?
+- VLOOKUP, linear regressions, trendlines
+3. How others perceive similar problems?
+- Supportive articles and analysis
+
+
 ### Our Solution
-For the data analysis part, we want to see how poverty related with academic Performance. By linking the High school poverty rate chart with academic performance chart published by Baltimore city schools using VLOOKUP with School name, we successfully combine all factors and poverty rate on one chart. Then, we find the correlation and coefficient between factors and poverty by regression data analysis. 
+To analyse the problem, we want to see how poverty is related with academic performance. By linking the High school poverty rate chart with academic performance chart published by Baltimore city schools using VLOOKUP with School name, we successfully combine all factors and poverty rate on one chart. Then, we find the correlation and coefficient between factors and poverty by regression data analysis. 
 
 Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
 
@@ -42,20 +51,20 @@ Chart below shows each variables’ relationship with poverty rate. P-value for 
 
 What's more, according to ['How Poverty Affects Classroom Engagement'](http://www.ascd.org/publications/educational-leadership/may13/vol70/num08/How-Poverty-Affects-Classroom-Engagement.aspx) by Eric Jensen, Students in poverty are exposed to food with lower nutritional value and are less likely to exercise and receive appropriate medications. In such an unfavorable condition, it's harder for them to listen, concentrate, and learn. This can hurt reading ability and other skills to achieve good academic standing. Also, poverty can cause vocabulary problem, which can leads to poor academic performance, because students who grow up in low socioeconomic conditions typically have a smaller vocabulary than middle-class students do, which raises the risk for academic failure. When students aren't familiar with words, they don't want to read and might think that school is not for them. In addition, many students don't want to be deappreciated by their peers, so they won't participate in class.
 
-Based on students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are in severe poverty, paying for extra help is difficult for them. Thus, government should assign more funding on this. And school can recruit more staffs to provide teaching.
+Due to students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are suffering severe poverty, paying for extra academic help is a burden for them. Thus, government should assign more funding for schools recruit more staffs and provide additional help sessions.
 
 ### Future Suggestions
-In order to come up with some more further suggestion on the issue, we tried to narrow down the idea of poverty into small pieces. Therefore, in second round analysis, we do linear regression multiple times to determined which factor caused by Poverty condition has the largest influence on the academic performance. 
+In order to come up with some more further suggestion on the issue, we tried to narrow down the idea of poverty into smaller pieces. In our second round analysis, we did linear regression multiple times to determine which factor caused by Poverty condition has the largest influence on the academic performance. 
 
-From the chart below, we can clearly see that the p-value between Poverty and sense of safety is as low as 1.7E-5 which indicate an extremely high statistical significance. Meanwhile, the negative coefficient as -51.46 implies that the higher poverty rate typically in company with less sense of Safety.
+From the chart below, we can clearly see that the p-value between Poverty and sense of safety on the route to school is as low as 1.7E-5, which indicate an extremely high statistical significance. Meanwhile, the negative coefficient as -51.46, implying that the higher poverty rate typically in company with less sense of Safety.
 
 ![alt text](https://github.com/achen120/midterm/blob/master/p-value%20for%20safety%20and%20perform.jpg)
 
-Based on the observation, we make our assumption that such sense of security has negative impact on student’s academic performance. Therefore, we do the linear regression again with sense of safety and academic performance. Chart below shows safety relationship with Academic performance. P-value for safety is 4.34E-37, which is smaller than 0.05. Thus, safety has relation with student’s Academic performance. Since coefficient is positive, this means as students have stronger sense of secure on the route to school, their academic performance rises.
+Based on the observation, we make our assumption that such sense of security has an impact on student’s academic performance. Therefore, we do the linear regression again between sense of safetiness and academic performance. As the P-value for safety is 4.34E-37, which is smaller than 0.05, there exists a correlation. And since the coefficient is positive, this means that as students have stronger sense of security on the route to school, their academic performance rises.
 
 ![alt text](https://github.com/achen120/midterm/blob/master/Performance%20vs%20Safety.JPG)
 
-Based on the Correlationship between these two variables, we do a further analysis of linear relationship between Academic Performance and student's sense of security. The graph below shows a clear linear relationship between them.
+Based on the Correlationship between these two variables, we do a further analysis of linear relationship between Academic Performance and student's sense of security on the route to school. The graph below shows a clear linear relationship between them.
 
 ![alt text](https://github.com/achen120/midterm/blob/master/Trendline%20Performance%20vs%20Sense%20of%20security.JPG)
 
@@ -63,7 +72,7 @@ Consequently, we tried to find out why such sense of safety affect academic perf
 The attentiveness and efficiency in study is one of the factors. A recent study at Sainte-Anne’s University finds that the student who felt unsafe has more symptoms of depression, making them unhappy and difficult to enjoy themselves. Such low performance in engagement and attentiveness in the classroom have long-term negative effect on students, leading to lower academic performance.
 Another factor is absence from class. A report out of University of Southern California found that the unsafe feeling “reduces school attendance”. For student, staying home from class is often the easiest way to avoid danger. Such absence from the class hinder student’s performance in understanding.
 
-We then related these factors with Baltimore current situation. A model of the most efficient routes to school for Baltimore students indicates that those who commute through areas with double the average amount of crime are 6 percent more likely to miss school.
+We then related these factors with Baltimore current situation. A model of the most efficient routes to school for Baltimore students indicates that, for those who commute through areas with double the average amount of crimes, they are 6 percent more likely to miss school.
 
 Considering all circumstances above, we come up with the suggestion for school to provide secure bus pick-up service to guarantee the safety of students and give them a sense of security so as to raise the student’s academic performance.
 
