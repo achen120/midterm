@@ -62,7 +62,7 @@ From the chart below, we can see that the p-value between poverty and sense of s
 
 Based on the observation, we make our assumption that such a sense of security has an impact on a student’s academic performance. Therefore, we do the linear regression again between the sense of safeness and academic performance. As the P-value for safety is 4.34E-37, which is smaller than 0.05, there exists a correlation. And since the coefficient is positive, this means that as students have a stronger sense of security on the route to school, their academic performance rises.
 
-![alt text](https://github.com/achen120/midterm/blob/master/Performance%20vs%20Safety.JPG)
+![alt text](https://github.com/achen120/midterm/blob/master/Performance%20vs%20safety.jpg)
 
 Based on the correlations between these two variables, we do a further analysis of the linear relationship between academic performance and student's sense of security on the route to school. The graph below shows a clear linear relationship between them.
 
