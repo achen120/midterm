@@ -9,7 +9,7 @@ Our analysis in Education_and_Youth__2015__analysis.xlsx of the data [Education 
 
 Additionally, by comparing the data with other cities, we can find that students in Baltimore city have highest percent of low performance level ,lowest percent of high performance level, and the least change from previous year.
 
-![alt text]()
+![alt text](https://github.com/achen120/midterm/blob/master/students%20bad%20performance.jpg)
 
 
 ### Why is this a Challenge?
@@ -25,11 +25,9 @@ However, poverty causes severe consiquences, including:
 If the poor education situation in Baltimore is a result of high poverty, it then leads back to poor education, which falls into a vicious cycle. The situation thus may even becomes worse in the future as this may hinders the development of Baltimore. 
 We need to stop this vicious cycle!
 
-![alt text](https://github.com/achen120/midterm/blob/master/16.pic.jpg)
+![alt text]()
 
-![alt text](https://github.com/achen120/midterm/blob/master/8.pic.jpg)
-
-![alt text](https://github.com/achen120/midterm/blob/master/9.pic.jpg)
+![alt text]()
 
 
 From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
