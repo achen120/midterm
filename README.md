@@ -2,11 +2,13 @@
 By: Daisy Xu, Yixing Pan, Anqi Chen
 
           “Education is the premise of progress, in every society, in every family." --- Kofi Annan
-# The Problem in Baltimore
+### The Problem in Baltimore
 According to the report [Baltimore City is failing its children](https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-student-test-scores-letter-20180410-story.html), students in Baltimore Public Schools scored near the bottom on reading and math comparing to students in other large urban areas and cities under a 2017 national assessment refered to [Baltimore students trail in key U.S. assessment](https://www.baltimoresun.com/education/bs-md-nations-report-card-20180409-story.html). Only 13 percent of Baltimore students reached the proficent level in eighth grade reading test, while only 11 percent of them reached the proficent level in eighth grade Math test. 
 
 Additionally, by comparing the data with other cities, we can find that students in Baltimore city have highest percent of low performance level ,lowest percent of high performance level, and the least change from previous year.
+
 ![alt text](https://github.com/achen120/midterm/blob/master/Baltimore_student_bad_performance1.jpg)
+
 ![alt text](https://github.com/achen120/midterm/blob/master/Baltimore_student_bad_performance2.jpg)
 
 Our analysis in Education_and_Youth__2015__analysis.xlsx of the data [Education and Youth](https://data.baltimorecity.gov/Neighborhoods/Education-and-Youth-2015-/t7tk-reum) also indicates the education situation in Baltimore.
@@ -18,7 +20,7 @@ Browsing through the web materials, a report [Baltimore's economy in black and w
  
 
 
-# Why is this a Challenge/Problem?
+### Why is this a Challenge?
 If the poor education situation in Baltimore is a result of high Poverty plus the poor education can actually lead to higher poverty rate, the issue falls into a vicious cycle and the situation would becomes worse in the future; it would hinder the development of Baltimore. Poverty can lead to poor academic performance, which can eventually lead to low education level. Low education level is one of the factors for unemployment. And unemployment will let people in poverty. This is a vicious cycle. We need to stop it!
 
 ![alt text](https://github.com/achen120/midterm/blob/master/16.pic.jpg)
@@ -31,21 +33,24 @@ If the poor education situation in Baltimore is a result of high Poverty plus th
 From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
 
 
-# Our Solution
+### Our Solution
 For the data analysis part, we want to see how poverty related with academic Performance. By linking the High school poverty rate chart with academic performance chart published by Baltimore city schools using VLOOKUP with School name, we successfully combine all factors and poverty rate on one chart. Then, we find the correlation and coefficient between factors and poverty by regression data analysis. 
 
 ![alt text](https://github.com/achen120/midterm/blob/master/Chart%20of%20School%20Poverty%20rate.JPG)
+
 ![alt text](https://github.com/achen120/midterm/blob/master/Data%20from%20school%20report.JPG)
+
 ![alt text](https://github.com/achen120/midterm/blob/master/combined%20data%20chart.JPG)
 
 Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
+
 ![alt text](https://github.com/achen120/midterm/blob/master/15.pic_hd.jpg)
 
 What's more, according to ['How Poverty Affects Classroom Engagement'](http://www.ascd.org/publications/educational-leadership/may13/vol70/num08/How-Poverty-Affects-Classroom-Engagement.aspx) by Eric Jensen, Students in poverty are exposed to food with lower nutritional value and are less likely to exercise and receive appropriate medications. In such an unfavorable condition, it's harder for them to listen, concentrate, and learn. This can hurt reading ability and other skills to achieve good academic standing. Also, poverty can cause vocabulary problem, which can leads to poor academic performance, because students who grow up in low socioeconomic conditions typically have a smaller vocabulary than middle-class students do, which raises the risk for academic failure. When students aren't familiar with words, they don't want to read and might think that school is not for them. In addition, many students don't want to be deappreciated by their peers, so they won't participate in class.
 
 Based on students’ poor academic performance in Baltimore, they might need extra help on school work. However, since most of the students are in severe poverty, paying for extra help is difficult for them. Thus, government should assign more funding on this. And school can recruit more staffs to provide teaching.
 
-# Future Suggestions
+### Future Suggestions
 In order to come up with some more further suggestion on the issue, we tried to narrow down the idea of poverty into small pieces. Therefore, in second round analysis, we do linear regression multiple times to determined which factor caused by Poverty condition has the largest influence on the academic performance. 
 
 From the chart below, we can clearly see that the p-value between Poverty and sense of safety is as low as 1.7E-5 which indicate an extremely high statistical significance. Meanwhile, the negative coefficient as -51.46 implies that the higher poverty rate typically in company with less sense of Safety.
