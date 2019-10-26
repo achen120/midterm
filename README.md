@@ -3,7 +3,9 @@ By: Daisy Xu, Yixing Pan, Anqi Chen
 
           “Education is the premise of progress, in every society, in every family." --- Kofi Annan
 ### The Problem in Baltimore
-According to the report [Baltimore City is failing its children](https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-student-test-scores-letter-20180410-story.html), students in Baltimore Public Schools scored near the bottom on reading and math comparing to students in other large urban areas and cities under a 2017 national assessment refered to [Baltimore students trail in key U.S. assessment](https://www.baltimoresun.com/education/bs-md-nations-report-card-20180409-story.html). Only 13 percent of Baltimore students reached the proficent level in eighth grade reading test, while only 11 percent of them reached the proficent level in eighth grade Math test. 
+According to the article [Baltimore City is failing its children](https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-student-test-scores-letter-20180410-story.html), students in Baltimore Public Schools scored near the bottom on math and reading comparing to students in other large urban areas and cities under a 2017 national assessment refered to [Baltimore students trail in key U.S. assessment](https://www.baltimoresun.com/education/bs-md-nations-report-card-20180409-story.html). Only 11 percent of students from Baltimore Public Schools reached the proficent level in eighth grade Math test, whereas a limited 13 percent reached the proficent level in eighth grade reading test.
+
+Our analysis in Education_and_Youth__2015__analysis.xlsx of the data [Education and Youth](https://data.baltimorecity.gov/Neighborhoods/Education-and-Youth-2015-/t7tk-reum) also indicates the education situation in Baltimore.
 
 Additionally, by comparing the data with other cities, we can find that students in Baltimore city have highest percent of low performance level ,lowest percent of high performance level, and the least change from previous year.
 
@@ -11,17 +13,18 @@ Additionally, by comparing the data with other cities, we can find that students
 
 ![alt text](https://github.com/achen120/midterm/blob/master/Baltimore_student_bad_performance2.jpg)
 
-Our analysis in Education_and_Youth__2015__analysis.xlsx of the data [Education and Youth](https://data.baltimorecity.gov/Neighborhoods/Education-and-Youth-2015-/t7tk-reum) also indicates the education situation in Baltimore.
-
-Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. The poverty rate of Baltimore which is approximately 24% is amazingly high compared to 9.9% of Maryland and 11.8% of U.S in 2019. This surprisingly high Baltimore poverty rate and poor education situation lead us to think about whether there's some correlation between these two phenomenon. Such problems is very critical since we all know that Education is the best way to eradicate Poverty because those in poverty can only change their condition by learning new things. According to J. Nyerere, “Education is not a way to escape poverty,it is a way to fight it”. Meanwhile, poor education can lead to more serious result:
- - Poor health condition for lack of Physiology Knowledge
- - Financial Crisis for lack of Personal Finance management skills
- - Poor living standard for limited mind and thought
- 
-
-
 ### Why is this a Challenge?
-If the poor education situation in Baltimore is a result of high Poverty plus the poor education can actually lead to higher poverty rate, the issue falls into a vicious cycle and the situation would becomes worse in the future; it would hinder the development of Baltimore. Poverty can lead to poor academic performance, which can eventually lead to low education level. Low education level is one of the factors for unemployment. And unemployment will let people in poverty. This is a vicious cycle. We need to stop it!
+Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. The poverty rate of Baltimore which is approximately 24% is amazingly high compared to 9.9% of Maryland and 11.8% of U.S in 2019. We thus wonder if students' poor academic performance is correlated with the high poverty rate in Baltimore. Our Business Question is then: How Poverty Influences Student’s Performance in Baltimore City Public Schools?
+
+With poor academic performance, students are more likely to drop out of school, and are less possible to acquire new skills by going to higher institutions to furthur their studies. As shown on Chart 1, the unemployment rate gradually decreases as the degree individual obtained increases. This explains the result shown on Chart 2, with higher degree, the poverty rate is lower. For individuals who has a degree less then high school, the poverty rate is 33.68%. We can roughly conclude that education is the best way to eradicate poverty. According to J. Nyerere, “Education is not a way to escape poverty,it is a way to fight it”.
+
+However, poverty causes severe consiquences, including:
+ - Poor health condition due to lack of medication
+ - Financial crisis
+ - Poor living standards
+ 
+If the poor education situation in Baltimore is a result of high poverty, it then leads back to poor education, which falls into a vicious cycle. The situation thus may even becomes worse in the future as this may hinders the development of Baltimore. 
+We need to stop this vicious cycle!
 
 ![alt text](https://github.com/achen120/midterm/blob/master/16.pic.jpg)
 
