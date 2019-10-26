@@ -25,9 +25,9 @@ However, poverty causes severe consiquences, including:
 If the poor education situation in Baltimore is a result of high poverty, it then leads back to poor education, which falls into a vicious cycle. The situation thus may even becomes worse in the future as this may hinders the development of Baltimore. 
 We need to stop this vicious cycle!
 
-![alt text]()
+![alt text](https://github.com/achen120/midterm/blob/master/Unemployment%20rate.jpg)
 
-![alt text]()
+![alt text](https://github.com/achen120/midterm/blob/master/poverty%20vs%20education%20level.jpg)
 
 
 From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
@@ -38,7 +38,7 @@ For the data analysis part, we want to see how poverty related with academic Per
 
 Chart below shows each variables’ relationship with poverty rate. P-value for School Performance Measure (SPM) Index is 0.017532, which is smaller than 0.05. Thus, SPM has relation with poverty rate. Since coefficient is negative, this means as poverty rate increases, academic performance become worse. 
 
-![alt text](https://github.com/achen120/midterm/blob/master/15.pic_hd.jpg)
+![alt text](https://github.com/achen120/midterm/blob/master/p-value%20for%20poverty%20and%20perform.JPG)
 
 What's more, according to ['How Poverty Affects Classroom Engagement'](http://www.ascd.org/publications/educational-leadership/may13/vol70/num08/How-Poverty-Affects-Classroom-Engagement.aspx) by Eric Jensen, Students in poverty are exposed to food with lower nutritional value and are less likely to exercise and receive appropriate medications. In such an unfavorable condition, it's harder for them to listen, concentrate, and learn. This can hurt reading ability and other skills to achieve good academic standing. Also, poverty can cause vocabulary problem, which can leads to poor academic performance, because students who grow up in low socioeconomic conditions typically have a smaller vocabulary than middle-class students do, which raises the risk for academic failure. When students aren't familiar with words, they don't want to read and might think that school is not for them. In addition, many students don't want to be deappreciated by their peers, so they won't participate in class.
 
@@ -49,7 +49,7 @@ In order to come up with some more further suggestion on the issue, we tried to 
 
 From the chart below, we can clearly see that the p-value between Poverty and sense of safety is as low as 1.7E-5 which indicate an extremely high statistical significance. Meanwhile, the negative coefficient as -51.46 implies that the higher poverty rate typically in company with less sense of Safety.
 
-![alt text](https://github.com/achen120/midterm/blob/master/16.pic_hd.jpg)
+![alt text](https://github.com/achen120/midterm/blob/master/p-value%20for%20safety%20and%20perform.jpg)
 
 Based on the observation, we make our assumption that such sense of security has negative impact on student’s academic performance. Therefore, we do the linear regression again with sense of safety and academic performance. Chart below shows safety relationship with Academic performance. P-value for safety is 4.34E-37, which is smaller than 0.05. Thus, safety has relation with student’s Academic performance. Since coefficient is positive, this means as students have stronger sense of secure on the route to school, their academic performance rises.
 
