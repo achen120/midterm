@@ -9,9 +9,8 @@ Our analysis in Education_and_Youth__2015__analysis.xlsx of the data [Education 
 
 Additionally, by comparing the data with other cities, we can find that students in Baltimore city have highest percent of low performance level ,lowest percent of high performance level, and the least change from previous year.
 
-![alt text](https://github.com/achen120/midterm/blob/master/Baltimore_student_bad_performance1.jpg)
+![alt text]()
 
-![alt text](https://github.com/achen120/midterm/blob/master/Baltimore_student_bad_performance2.jpg)
 
 ### Why is this a Challenge?
 Browsing through the web materials, a report [Baltimore's economy in black and white](https://money.cnn.com/2015/04/29/news/economy/baltimore-economy/) caught our attention. The poverty rate of Baltimore which is approximately 24% is amazingly high compared to 9.9% of Maryland and 11.8% of U.S in 2019. We thus wonder if students' poor academic performance is correlated with the high poverty rate in Baltimore. Our Business Question is then: How Poverty Influences Student’s Performance in Baltimore City Public Schools?
