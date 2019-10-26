@@ -71,8 +71,5 @@ Considering all circumstances above, we come up with the suggestion for school t
 
 
 # Appendix
-![alt text](https://github.com/achen120/midterm/blob/master/Chart%20of%20School%20Poverty%20rate.JPG)
-
-![alt text](https://github.com/achen120/midterm/blob/master/Data%20from%20school%20report.JPG)
 
 ![alt text](https://github.com/achen120/midterm/blob/master/combined%20data%20chart.JPG)
