@@ -21,11 +21,11 @@ Browsing through the web materials, a report [Baltimore's economy in black and w
 # Why is this a Challenge/Problem?
 If the poor education situation in Baltimore is a result of high Poverty plus the poor education can actually lead to higher poverty rate, the issue falls into a vicious cycle and the situation would becomes worse in the future; it would hinder the development of Baltimore. Poverty can lead to poor academic performance, which can eventually lead to low education level. Low education level is one of the factors for unemployment. And unemployment will let people in poverty. This is a vicious cycle. We need to stop it!
 
-<img src="https://github.com/achen120/midterm/blob/master/16.pic.jpg" width="600" height="300">
+![alt text](https://github.com/achen120/midterm/blob/master/16.pic.jpg)
 
-<img src="https://github.com/achen120/midterm/blob/master/8.pic.jpg" width="300" height="150">
+![alt text](https://github.com/achen120/midterm/blob/master/8.pic.jpg)
 
-<img src="https://github.com/achen120/midterm/blob/master/9.pic.jpg" width="400" height="200">
+![alt text](https://github.com/achen120/midterm/blob/master/9.pic.jpg)
 
 
 From the data above, we find that Low education level is one of the factors for unemployment, which will let people in poverty.
